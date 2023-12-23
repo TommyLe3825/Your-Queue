@@ -1,5 +1,6 @@
 # Your-Queue
-Class Templates
+Class Templates on Sololearn
+
 You are making a queue management system and need to support different data types - for example, you should be able to queue names which are strings or integer numbers.
 
 So, you decide to make a Queue class template, which will store an array for the queue, and have add() and get() methods.
